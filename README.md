@@ -14,9 +14,9 @@
 
 `tsc --init`
 
-#### 编写webpack配置文件 webpack.config.dev.json
+#### 编写webpack配置文件 webpack.config.dev.js
 
-```json
+```javascript
 
 module.exports = {
   entry: './src/index.ts',
